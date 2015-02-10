@@ -1,0 +1,31 @@
+{
+  "name": "laucosmes",
+  "version": "0.1.0",
+  "authors": [
+    "Lau <laruku.cosmes@gmail.com>"
+  ],
+  "description": "static project with bower version 1",
+  "keywords": [
+    "laucosmes",
+    "project",
+    "practice",
+    "1",
+    "css",
+    "fonts",
+    "js",
+    "html"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.2",
+    "font-awesome": "~4.3.0"
+  }
+}
